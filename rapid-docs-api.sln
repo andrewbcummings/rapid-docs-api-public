@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rapid-docs-api", "rapid-docs-api\rapid-docs-api.csproj", "{18FFBC2E-1F30-45A1-9A67-379AC8C882BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rapid-docs-models", "rapid-docs-models\rapid-docs-models.csproj", "{D02353C2-5E38-42DA-A1EF-52C79A68D88B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5970A06-9347-4E25-A9B7-32AB0E6C23D2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rapid-docs-viewmodels", "rapid-docs-viewmodels\rapid-docs-viewmodels.csproj", "{9B41E272-0885-4E02-AA1A-EB487F35C620}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rapid-docs-services", "rapid-docs-services\rapid-docs-services.csproj", "{323AAA3E-F48A-4DBE-A001-4B518769EAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rapid-docs-core", "rapid-docs-core\rapid-docs-core.csproj", "{5D49BE7F-8C48-446D-A45F-496DCF188610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FFBC2E-1F30-45A1-9A67-379AC8C882BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FFBC2E-1F30-45A1-9A67-379AC8C882BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FFBC2E-1F30-45A1-9A67-379AC8C882BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FFBC2E-1F30-45A1-9A67-379AC8C882BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02353C2-5E38-42DA-A1EF-52C79A68D88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02353C2-5E38-42DA-A1EF-52C79A68D88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02353C2-5E38-42DA-A1EF-52C79A68D88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02353C2-5E38-42DA-A1EF-52C79A68D88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B41E272-0885-4E02-AA1A-EB487F35C620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B41E272-0885-4E02-AA1A-EB487F35C620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B41E272-0885-4E02-AA1A-EB487F35C620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B41E272-0885-4E02-AA1A-EB487F35C620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323AAA3E-F48A-4DBE-A001-4B518769EAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323AAA3E-F48A-4DBE-A001-4B518769EAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323AAA3E-F48A-4DBE-A001-4B518769EAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323AAA3E-F48A-4DBE-A001-4B518769EAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D49BE7F-8C48-446D-A45F-496DCF188610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D49BE7F-8C48-446D-A45F-496DCF188610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D49BE7F-8C48-446D-A45F-496DCF188610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D49BE7F-8C48-446D-A45F-496DCF188610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D8AA3D5-A1E4-4A7D-A609-576A5CB503CE}
+	EndGlobalSection
+EndGlobal

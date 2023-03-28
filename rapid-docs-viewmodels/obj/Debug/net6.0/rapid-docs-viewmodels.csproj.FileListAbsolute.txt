@@ -1,0 +1,17 @@
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\bin\Debug\net6.0\rapid-docs-viewmodels.deps.json
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\bin\Debug\net6.0\rapid-docs-viewmodels.dll
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\bin\Debug\net6.0\rapid-docs-viewmodels.pdb
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\rapid-docs-viewmodels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\rapid-docs-viewmodels.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\rapid-docs-viewmodels.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\rapid-docs-viewmodels.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\rapid-docs-viewmodels.dll
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\ref\rapid-docs-viewmodels.dll
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\rapid-docs-viewmodels.pdb
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\bin\Debug\net6.0\rapid-docs-models.dll
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\bin\Debug\net6.0\rapid-docs-models.pdb
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\rapid-docs-viewmodels.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\rapid-docs-viewmodels.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\bin\Debug\net6.0\rapid-docs-core.dll
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\bin\Debug\net6.0\rapid-docs-core.pdb
+C:\Users\andre\OneDrive\Documents\GitHub\rapid-docs-api\rapid-docs-api\rapid-docs-viewmodels\obj\Debug\net6.0\refint\rapid-docs-viewmodels.dll
